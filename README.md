@@ -6,4 +6,4 @@
 
 3: double click the "juice-main" folder and do step 3 for "GAMES.zip"
 
-4: enjoy some games
+4: one you find a game u want to play, find the "index.html" or "index.htm" and double click it.
